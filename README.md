@@ -5,16 +5,16 @@ A GO SDK for CoinMex Exchange API
 
 ```go
 
-    /**
-     * 用户 apiKey，需用户填写，在 https://www.coinmex.com/user  api 中获取
+    /*
+     用户 apiKey，需用户填写，在 https://www.coinmex.com/user  api 中获取
      */
     config.ApiKey = ""
-    /**
-     * 用户 secretKey，需用户填写，在 https://www.coinmex.com/user  api 中获取
+    /*
+     用户 secretKey，需用户填写，在 https://www.coinmex.com/user  api 中获取
      */
     config.SecretKey = ""
-    /**
-     * 口令，需用户填写，在 https://www.coinmex.com/user  api 中获取（创建时由用户设定）
+    /*
+     口令，需用户填写，在 https://www.coinmex.com/user  api 中获取（创建时由用户设定）
      */
     config.Passphrase = ""
 ```
